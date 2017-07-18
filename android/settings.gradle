@@ -1,0 +1,3 @@
+rootProject.name = 'retech_dev'
+
+include ':app'
